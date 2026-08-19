@@ -1,7 +1,3 @@
-For GitHub, less is often more. Instead of documenting every feature in detail, focus on value proposition, architecture, capabilities, governance, and roadmap. Think like a product README that a recruiter, engineer, architect, or investor can understand within 2 minutes.
-
-TalentJourney
-
 AI-Powered Recruitment Copilot & Decision Support Platform
 
 Transforming recruitment into a transparent, explainable, and governed AI-assisted talent acquisition journey with strict Human-in-the-Loop decision making.

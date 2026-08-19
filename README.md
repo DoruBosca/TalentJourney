@@ -223,39 +223,6 @@ Evaluate Interviews	Support	Validate
 Hiring Recommendation	Recommend	Decide
 Offer Approval	Support	Approve
 
-AI augments decision-making. Humans remain accountable.
-
-🏗️ Solution Architecture
-┌────────────────────────────┐
-│ React + TypeScript UI      │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌────────────────────────────┐
-│ AI Orchestration Layer     │
-│ • Prompt Engine            │
-│ • Scoring Engine           │
-│ • Recommendation Services  │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌────────────────────────────┐
-│ Recruitment Services       │
-│ • Jobs                     │
-│ • Candidates               │
-│ • Interviews               │
-│ • Hiring Decisions         │
-│ • Analytics                │
-└─────────────┬──────────────┘
-              │
-              ▼
-┌────────────────────────────┐
-│ Governance Layer           │
-│ • Audit Trail              │
-│ • Compliance Controls      │
-│ • GDPR Services            │
-│ • Access Management        │
-└────────────────────────────┘
 
 📊 Benefits
 For Recruiters

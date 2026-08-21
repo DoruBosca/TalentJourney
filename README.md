@@ -7,7 +7,6 @@ Transforming recruitment into a transparent, explainable, and governed AI-assist
 TalentJourney is an enterprise-grade AI recruitment platform that supports the complete hiring lifecycle, from job requisition creation to onboarding.
 
 The platform combines:
-
 Generative AI
 Explainable candidate matching
 Structured interview orchestration
@@ -17,11 +16,13 @@ Human-in-the-Loop governance
 
 TalentJourney is designed to improve hiring quality while ensuring that AI assists recruiters and hiring managers, but never makes hiring decisions autonomously.
 
+<img width="921" height="864" alt="image" src="https://github.com/user-attachments/assets/c56b95e0-c26e-450f-a82c-04c2c783fc1a" />
+
+
 🎯 Vision
 
 Help organizations:
-
-✅ Create better job descriptions
+ ✅ Create better job descriptions
  ✅ Screen candidates faster
  ✅ Conduct more structured interviews
  ✅ Improve hiring quality
@@ -84,7 +85,6 @@ Candidate comparison matrix
 Explainability
 
 Every recommendation includes:
-
 Evidence
 Matching rationale
 Missing skills
@@ -96,7 +96,6 @@ Recruiters can override AI recommendations with mandatory justification.
 3. AI Interview Hub
 
 Design and execute structured interviews at scale.
-
 Supported Interview Stages
 Recruiter Screening
 Technical Interview
